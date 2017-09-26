@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHubRepoFinder</string>
+    <string name="search">Search</string>
+    <string name="project_name">Project Name</string>
+    <string name="user_name">User Name</string>
+    <string name="search_by_user">Search By User</string>
+    <string name="search_by_repo">Search By Repo</string>
+    <string name="repository_name">Repository Name</string>
+</resources>
